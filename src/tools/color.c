@@ -7,7 +7,7 @@ const char* FRONT_GREEN     = "\033[32m";
 const char* FRONT_YELLOW    = "\033[33m";
 const char* FRONT_BLUE      = "\033[34m";
 const char* FRONT_PURPLR    = "\033[35m";
-const char* FRONT_DARKGREEN = "\033[36m";
+const char* FRONT_DARKsGREEN = "\033[36m";
 const char* FRONT_WHITE     = "\033[37m";
 
 const char* BACK_BLACK      = "\033[40m";
